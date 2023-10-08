@@ -1,0 +1,15 @@
+{
+    "data":[
+    {"name":"darshan sathvara",
+    "image":"./assets/p1.jpeg",
+    "followers":["manoj","mahesh","jaydip","rohan","shivam"]
+    },
+    {"name":"manan jethava",
+    "image":"./assets/p2.jpeg",
+    "followers":["manoj","mahesh","jaydip","rohan","shivam"]
+    },
+    {"name":"haresh hajira",
+    "image":"./assets/p3.jpeg",
+    "followers":["manoj","mahesh","jaydip","rohan","shivam"]
+    }
+]}
