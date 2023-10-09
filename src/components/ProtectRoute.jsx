@@ -9,11 +9,11 @@ const ProtectRoute = (props) => {
     const {Component}=props
     const[user,setUser]=useContext(manageuser)
     const navigate=useNavigate()
-// useLayoutEffect(()=>{
-// if(user==""){
-//     navigate("/login")
-// }
-// },[])
+useLayoutEffect(()=>{
+if(user==""){
+    navigate("/login")
+}
+},[])
 
   return (
     <div>
